@@ -1,0 +1,18 @@
+body{
+	margin:0px; text-align:center;background:#ffffff;
+	}
+#container {
+	width:800px; height:600px; background:yellow; margin:auto 0px;
+	}
+#header{
+	float:left; width:800px; heigt:100px; margin:auto 0px; clear:both; background:#9187e9;
+}
+.nav{
+	width:800px; heigt:5px; line-heith:5px; margin:auto 0px; clear:both; background:#aee19f;
+}
+.left_main{
+	margin:0px; float:left; width:180px; height:425px; clear:right; background:#aaddcc;
+}
+.right_main{
+	margin:0px; float:right; width:620px; height:425px; clear:right; background:#ffff80;
+}
